@@ -28,7 +28,7 @@ The datset was provided by Ineuron.ai in .sql format. It was scraped by them for
 
 ![Screenshot (105)](https://user-images.githubusercontent.com/55132850/152373443-0f6e6d31-da3f-495c-b541-99be2e989d0b.png)
 
-Note: Validation for results (insights) drawn can be done by simple queries from MySql workbench too.![Screenshot (108)](https://user-
+Note: Validation for results (insights) drawn can be done by simple queries from MySql workbench too.
 
 ![Screenshot (104)](https://user-images.githubusercontent.com/55132850/152376790-964903e8-8b80-4de3-8392-f9bf73dbf838.png)
 
