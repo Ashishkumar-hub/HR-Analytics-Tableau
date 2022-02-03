@@ -17,6 +17,8 @@ The datset was provided by Ineuron.ai in .sql format. It was scraped by them for
 - What are various job types for different job titles?
 - Which are TOP 5 companies with highest jobs?
 
+## IMAGES FOR DASBOARD CREATION WERE CREATED USING CANVA
+
 ## HOW TO RUN THE PROJECT:
 
 1. Firstly we need MySQL Workbench installed in system 
