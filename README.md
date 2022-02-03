@@ -34,7 +34,7 @@ Note: Validation for results (insights) drawn can be done by simple queries from
 
 3. After that you'll have the data in your database. then we can connect with tableau providing the id passward and proceed ahead. 
 
-4. Final step : once you tableau is connected to MtSQL just open the tableu file to see the dashboards.
+4. Final step : once you tableau is connected to MySQL just open the tableu file to see the dashboards.
 
 ## DASHBOARDS CREATED : Total 5 dashboards were created
 
