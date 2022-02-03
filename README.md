@@ -17,17 +17,23 @@ The datset was provided by Ineuron.ai in .sql format. It was scraped by them for
 - What are various job types for different job titles?
 - Which are TOP 5 companies with highest jobs?
 
-## IMAGES FOR DASBOARD CREATION WERE CREATED USING CANVA
+#### IMAGES FOR DASBOARD CREATION WERE CREATED USING CANVA
+#### EDA was done and file is present above.
 
 ## HOW TO RUN THE PROJECT:
 
 1. Firstly we need MySQL Workbench installed in system 
-2. Connect to localhost and then import the files that are in sql format to see the data. See the figure below and then check for the table. 
-![Screenshot (105)](https://user-images.githubusercontent.com/55132850/152373443-0f6e6d31-da3f-495c-b541-99be2e989d0b.png)
-Note: Validation for results (insights) drawn can be done by simple queries from MySql workbench too.![Screenshot (108)](https://user-images.githubusercontent.com/55132850/152375178-97af10d5-5edc-4e6b-94d4-24427ea75ede.png)
 
-![Screenshot (104)](https://user-images.githubusercontent.com/55132850/152372573-d9d13fb3-b37b-4f5e-ade6-582cbc06e9df.png)
+2. Connect to localhost and then import the files that are in sql format to see the data. See the figure below and then check for the table. 
+
+![Screenshot (105)](https://user-images.githubusercontent.com/55132850/152373443-0f6e6d31-da3f-495c-b541-99be2e989d0b.png)
+
+Note: Validation for results (insights) drawn can be done by simple queries from MySql workbench too.![Screenshot (108)](https://user-
+
+![Screenshot (104)](https://user-images.githubusercontent.com/55132850/152376790-964903e8-8b80-4de3-8392-f9bf73dbf838.png)
+
 3. After that you'll have the data in your database. then we can connect with tableau providing the id passward and proceed ahead. 
+
 4. Final step : once you tableau is connected to MtSQL just open the tableu file to see the dashboards.
 
 ## DASHBOARDS CREATED : Total 5 dashboards were created
